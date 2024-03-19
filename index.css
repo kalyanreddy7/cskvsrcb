@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/14/00/da/1400da1654870e48ed5746d96d2e9e6e.jpg);
+    background-size: cover;
+}
+.main{
+    border:3px solid black;
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+    background: rgb(205, 236, 205);
+    opacity: 0.9;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;
+}
+h2{
+    color:rgb(30, 30, 24) ;
+}
+h3{
+    color: rgb(23, 28, 19);
+}
+
+button {
+    margin-bottom: 20px;
+}
+
+#scores {
+    margin-bottom: 20px;
+}
